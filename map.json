@@ -541,19 +541,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Custom map VEEPEE"
+         "value":"Suitable for up to 30 users.\n\nWork in a zen environment and recharge your batteries by taking a break in one of the natural spaces. If you ever find physical offices that look like this, never leave them!"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/play.workadventu.re\/@\/veepee\/brief-virtual-office\/dusseldorf"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Nature office"
